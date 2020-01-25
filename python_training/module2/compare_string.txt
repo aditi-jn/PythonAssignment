@@ -1,0 +1,10 @@
+Question 5
+
+(1)
+Output:
+z is not less than a
+
+(2)
+Output:
+Boston
+New York

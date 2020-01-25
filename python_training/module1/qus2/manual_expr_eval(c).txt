@@ -1,0 +1,7 @@
+a=4.4
+b=0.0
+c=4.2
+y=3.0
+ans=c+a*y*y/b
+ans=4.2+4.4*3.0*3.0/0.0
+ans=cannot divided by zero
